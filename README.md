@@ -17,9 +17,9 @@ This repository implements a simple TCP listener in Go that listens for incoming
 **Getting Started:**
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/antomfdez/tcp-listener.git
-   ```
+```bash
+git clone https://github.com/antomfdez/tcp-listener.git
+```
 
 2. Navigate to the project directory:
 ```bash
