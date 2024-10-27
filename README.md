@@ -18,12 +18,12 @@ This repository implements a simple TCP listener in Go that listens for incoming
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/antomfdez/tcp-listener.git
+git clone https://github.com/antomfdez/golit.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd tcp-listener
+cd golit
 ```
 
 3. Run the listener:
