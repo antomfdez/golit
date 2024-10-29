@@ -28,7 +28,7 @@ cd golit
 
 3. Run the listener:
 ```bash
-go run cmd/golit -p 8080
+go run ./cmd/golit -p 8080
 ```
 
 - Replace 8080 with your desired port number.
